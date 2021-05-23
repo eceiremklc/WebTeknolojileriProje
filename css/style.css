@@ -1,0 +1,45 @@
+.bg-nav {
+    /*background-color:#5C6BC0;*/
+    background-color:#52ab98 ;
+}
+
+.btn{
+    color:white !important
+}
+
+.cover-metin {
+    height: 10vh;
+}
+
+.cover-metin2{
+    height: 15vh;
+}
+
+.cover-metin3{
+    height: 3vh;
+}
+
+.center{
+    margin: auto;
+}
+#cover {
+    background-color:#FEF0F8;
+    background-size: cover;
+    background-position: left center;
+    background-attachment: fixed;
+    height: 10vh;
+}
+
+.gr{
+    /*background-color: #C5CAE9 ;*/
+    background-color: #e2e2e2;
+}
+.giresun{
+    /*background-color: #9FA8DA   ;*/
+    background-color: #2b6777;
+    color:white !important;
+}
+
+.table{
+    color:white !important;
+}
